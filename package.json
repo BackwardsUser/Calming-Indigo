@@ -1,0 +1,21 @@
+{
+  "name": "calming-indigo",
+  "displayName": "Calming Indigo",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Calming Indigo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Calming Indigo-color-theme.json"
+      }
+    ]
+  }
+}
