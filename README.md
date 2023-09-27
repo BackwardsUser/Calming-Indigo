@@ -19,11 +19,10 @@ I'm very happy with the way this first one turned out and am interested in furth
 Any Tips for themes and color theory
 [Contact Us](https://backwardsdevelopment.ca/contact)
 
-Checkout our website.
-[Backwards Development](https://backwardsdevelopment.ca/)
-
-Checkout our GitHub
-[GitHub](https://github.com/backwardsdevelopment/)
+Checkout our website.  
+[Backwards Development](https://backwardsdevelopment.ca/)  
+  
+Checkout our [GitHub](https://github.com/backwardsdevelopment/)
 
 Product of BackwardsUser and Backwards Development.  
 © BackwardsUser (Alexander Harding)
