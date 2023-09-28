@@ -22,7 +22,7 @@ Any Tips for themes and color theory
 Checkout our website.  
 [Backwards Development](https://backwardsdevelopment.ca/)  
   
-Checkout our [GitHub](https://github.com/backwardsdevelopment/)
+Checkout our [GitHub](https://github.com/backwardsdevelopment/)!
 
 Product of BackwardsUser and Backwards Development.  
 © BackwardsUser (Alexander Harding)
